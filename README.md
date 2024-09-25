@@ -1,4 +1,4 @@
-# vehicle_detection_android_app
+# Vehicle-and-License-Plate-Detection-App
 
 This is a mini-project completed for the Advanced Image Processing (AIP) course at the Indian Institute of Science. The application focuses on detecting vehicles and their license plates using advanced image processing techniques.
 
