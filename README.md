@@ -6,7 +6,7 @@ Features
 
 Vehicle Detection: Identifies vehicles within images.
 
-License Plate Detection: Detects license plate from detected vehicles.
+# License Plate Detection: Detects license plate from detected vehicles.
 
 Android Application: Built using Android Studio for mobile device compatibility.
 
