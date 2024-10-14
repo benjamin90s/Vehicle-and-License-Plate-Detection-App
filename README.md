@@ -4,13 +4,12 @@ This is a mini-project completed for the Advanced Image Processing (AIP) course 
 
 Features
 
-Vehicle Detection: Identifies vehicles within images.
+Vehicle Detection: Identifies vehicles within images.  
 
-# License Plate Detection: Detects license plate from detected vehicles.
+License Plate Detection: Detects license plate from detected vehicles.  
 
 Android Application: Built using Android Studio for mobile device compatibility.
 
-Access to Project Files
 
 For access to the datasets, Android Studio project files, and the Android .apk files, please connect with me on LinkedIn.
 
